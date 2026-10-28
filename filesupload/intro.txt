@@ -1,0 +1,60 @@
+product based company 
+service based company 
+
+SDLC 
+----
+Software development lifecycle 
+
+1.Requirement collection 
+------------------------
+BA - requirement - audio , video - BRS document 
+
+2.req analyze 
+---------------
+meeting - ba , test , dev , hr , finance 
+
+3. designer 
+----------
+ui/ux 
+
+hld , lld 
+
+4. developer 
+-------------
+requirement documents 
+design
+
+application, websites 
+
+frontend - code create - run 
+backend - code create - run 
+build - app 
+
+5.tester 
+--------
+requirement vs build 
+expected result vs actualresult - test pass , test fail - bug 
+
+frontend 
+	automation testing - java , selenium , data driven , pom , base class, 	junit ,testing ,cucumber 
+
+	manual testing  - theory , excel 
+backend - api testing  
+	automation testing - rest assured 
+	manual testing - postman 
+
+6. deployment 
+------------
+server 
+
+
+
+
+
+
+
+
+
+
+
+
